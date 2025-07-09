@@ -61,3 +61,7 @@ JOIN Item_Locacao il ON l.id_locacao = il.id_locacao
 GROUP BY c.id_cliente;
 
 SELECT titulo FROM Filme WHERE genero = 'Ação';
+
+---
+
+Quer que eu gere os scripts SQL de criação, manipulação e as consultas para completar essa estrutura?
